@@ -1,8 +1,9 @@
-# HackerEarth-Deep-Learning-Challenge-Tis-STILL-the-season-to-be-jolly
-### A Deep Learning based hackathon organized by HackerEarth
-### Total Participants 3149 
-### My rank on Leaderboard 70
+# 🎄🎃 HackerEarth-Deep-Learning-Challenge-Tis-STILL-the-season-to-be-jolly
+* A Deep Learning based hackathon organized by HackerEarth
+> ### Total Participants 3149 
+> ### My rank on Leaderboard 70
 
+## Dataset :
 > DataSet and Challenge Link : https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/
 
 ## My Predictions :
