@@ -12,5 +12,7 @@ DataSet and Challenge Link : https://www.hackerearth.com/challenges/competitive/
 | InceptionV3       | 89.92 %     |
 | VGG16             | 77.64 %     |
 | ResNet            | 86.60 %     |
-| InceptionResNetV2 | 92.41 %     |
+| InceptionResNetV2 | 92.41 %     | (*Best One)
+| NASNetLarge       | 91.92 %     |
+
 
