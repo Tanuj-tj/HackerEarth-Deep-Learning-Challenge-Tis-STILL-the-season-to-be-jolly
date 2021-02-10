@@ -5,10 +5,12 @@ DataSet and Challenge Link : https://www.hackerearth.com/challenges/competitive/
 
 ## My Predictions :
 > Used differnet transfer learning techniques to train the data
-Models             Accuracy
-1. MobilenetV2 :   88.40 %
 
-| MODELS       | ACCURACY(%) |
-| ---          | ---         |
-| MobileNetV2  | 88.40 %     |
-| InceptionV3  | 89.92 %     |
+| MODELS            | ACCURACY(%) |
+| ---               | ---         |
+| MobileNetV2       | 88.40 %     |
+| InceptionV3       | 89.92 %     |
+| VGG16             | 77.64 %     |
+| ResNet            | 86.60 %     |
+| InceptionResNetV2 | 92.41 %     |
+
