@@ -52,3 +52,6 @@ The data folder consists of two folders and one .csv file. The details are as fo
 * train: Contains 6469 images for 6 classes
 * test: Contains 3489 images
 * train.csv: 3489 x 2
+
+## Evaluation metric
+> score = {100* f1\_score(actual\_values,predicted\_values,average = 'weighted')}
