@@ -1,7 +1,9 @@
 # HackerEarth-Deep-Learning-Challenge-Tis-STILL-the-season-to-be-jolly
-A Deep Learning based hackathon organized by HackerEarth 
+### A Deep Learning based hackathon organized by HackerEarth
+### Total Participants 3149 
+### My rank on Leaderboard 70
 
-DataSet and Challenge Link : https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/
+> DataSet and Challenge Link : https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/
 
 ## My Predictions :
 > Used differnet transfer learning techniques to train the data
@@ -12,7 +14,7 @@ DataSet and Challenge Link : https://www.hackerearth.com/challenges/competitive/
 | InceptionV3       | 89.92 %     |
 | VGG16             | 77.64 %     |
 | ResNet            | 86.60 %     |
-| InceptionResNetV2 | 92.41 %     | (*Best One)
+| InceptionResNetV2 | 92.41 %     | 
 | NASNetLarge       | 91.92 %     |
 
 
