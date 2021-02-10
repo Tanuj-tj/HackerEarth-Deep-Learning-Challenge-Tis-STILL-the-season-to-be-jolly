@@ -26,3 +26,29 @@ The benefits of practicing this problem by using Machine Learning/Deep Learning 
 * This challenge will help you to enhance your knowledge of multi-label classification, which is one of the basic building blocks of Machine Learning.
 
 
+## Problem statement :
+> You work for a social media platform. Your task is to create a solution using deep learning to discern whether a post is holiday-related in an effort to better monetize the platform.
+
+You are given the following six categories. You are required to classify the images in the dataset based on these categories.
+
+* Miscellaneous
+* Christmas_Tree
+* Jacket
+* Candle
+* Airplane
+* Snowman
+
+## Data description
+
+This data set consists of the following two columns:
+
+|   Column Name  | Description      |
+| ---            | ---              |
+| Image          | Name of image    |
+| Class          | Category of image|
+
+The data folder consists of two folders and one .csv file. The details are as follows:
+
+* train: Contains 6469 images for 6 classes
+* test: Contains 3489 images
+* train.csv: 3489 x 2
