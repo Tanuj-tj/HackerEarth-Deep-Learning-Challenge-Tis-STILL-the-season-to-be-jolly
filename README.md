@@ -38,7 +38,7 @@ You are given the following six categories. You are required to classify the ima
 * Airplane
 * Snowman
 
-## Data description
+## Data description :
 
 This data set consists of the following two columns:
 
@@ -53,5 +53,7 @@ The data folder consists of two folders and one .csv file. The details are as fo
 * test: Contains 3489 images
 * train.csv: 3489 x 2
 
-## Evaluation metric
+## Evaluation metric :
 > score = 100* f1\_score(actual\_values,predicted\_values,average = 'weighted')
+
+> ## NOTE : The Holiday_Season_Challenge_3.ipynb file is of 47.7 mb so it is not possible to upload here so i have created the zip file (.rar) of the same, So feel free to extract it . 
