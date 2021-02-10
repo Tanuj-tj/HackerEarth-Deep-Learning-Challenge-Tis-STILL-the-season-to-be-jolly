@@ -4,7 +4,7 @@
 > ### My rank on Leaderboard 70
 
 ## My Predictions :
-> Used differnet transfer learning techniques to train the data
+> Used different transfer learning techniques to train the data 
 
 | MODELS            | ACCURACY(%) |
 | ---               | ---         |
