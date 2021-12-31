@@ -15,6 +15,15 @@
 | InceptionResNetV2 | 92.41 %     | 
 | NASNetLarge       | 91.92 %     |
 
+| MODELS            | ACCURACY(%) |
+| ---               | ---         |
+| XGBOOST       | 84 %     |
+| CATBOOST       | 85 %     |
+| LGBM            | 85 %     |
+| RANDOMFOREST            | 82 %     |
+| SVM | 84 %     | 
+| LOGISTIC REGRESSION       | 83 %     |
+
 ## Dataset :
 > DataSet and Challenge Link : https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/
 
